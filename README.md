@@ -1,9 +1,8 @@
 # Setup NDT Server on Ubuntu 14.04
 
 ##### Server Configuration in OpenStack:
-- Comcast Cloud Ubuntu 14.04 x86_64 v2.5
+- Ubuntu 14.04 64-bit
 - m1.medium (4GB RAM/2 CPU)
-- ndt-group security group
 - Ports opened (below):
 ```
 3001	TCP	NDT data
