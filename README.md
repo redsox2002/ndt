@@ -1,4 +1,4 @@
-# Setup NDT Server on Ubuntu 14.04
+# Setup NDT Server on Ubuntu 14.04 TEST
 
 ##### Server Configuration in OpenStack:
 - Ubuntu 14.04 64-bit
